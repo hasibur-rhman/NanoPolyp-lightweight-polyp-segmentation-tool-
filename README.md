@@ -181,6 +181,4 @@ Set-ExecutionPolicy -Scope Process RemoteSigned
 - The PowerShell launcher writes a small `.app-pids.json` file so it can stop the correct processes later.
 - Large model files should not be committed unless you intentionally want them in Git history.
 
-## License
 
-Add your preferred license here before publishing to GitHub.
